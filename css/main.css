@@ -32,9 +32,9 @@ section{display:flex;}
     line-height: 1.4;
 }
 
-btn-default{ color: white; background-color: #faa541;}
+.btn-default{ color: white; background-color: #faa541;}
 
-btn-primary {color: white; background-color: #364147;}
+.btn-primary {color: white; background-color: #364147;}
 
 .form-control{
     display:block;
