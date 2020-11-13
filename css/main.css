@@ -79,7 +79,7 @@ section{display:flex;}
     width:330px;
     height:30px;
     padding: 6px 12px;
-    border: 1px #a0a0a0;
+    border: 1px solid #a0a0a0;
 }
 
 .search-button{
@@ -95,4 +95,12 @@ section{display:flex;}
     padding-left:0;
     width:575px;
     margin-top:10px;
+}
+.nav list li a{
+    font-size:16px;
+    font-weight:700;
+    letter-spacing: 0.2px;
+    text-transform:uppercase;
+    
+    
 }
